@@ -31,7 +31,7 @@ expense-tracker/
 1. Install Python 3.8 or newer.
 2. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/expense-tracker.git
+   git clone https://github.com/jainbhaumik/expense-tracker.git
    cd expense-tracker
    ```
 3. Install the chart library (only needed for the chart option):
